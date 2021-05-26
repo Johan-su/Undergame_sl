@@ -10,7 +10,7 @@ void SpawnerSystem::init()
 
 	spawntimer = 0;
 	iterations = 0;
-	spawnrate = 360;
+	spawnrate = 720;
 }
 
 void SpawnerSystem::clean()
@@ -39,8 +39,8 @@ void SpawnerSystem::update() //TODO: add random generators
 			{
 				angle = static_cast <float> (rand()) / (static_cast <float> (RAND_MAX / (float)M_PI));
 
-				x = (cos(angle) * TILE_SIZE * 10) + px;
-				y = (sin(angle) * TILE_SIZE * 10) + py; //TODO: change to real values
+				x = (cos(angle) * TILE_SIZE * 14) + px;
+				y = (sin(angle) * TILE_SIZE * 14) + py; //TODO: change to real values
 
 
 			} while (!inside_map(x, y));
@@ -50,7 +50,7 @@ void SpawnerSystem::update() //TODO: add random generators
 			EntityCreator::create_entity(ENTITY_TYPE_MOLE, x, y, 0);
 		}
 		spawntimer = 0;
-		spawnrate = 120 * (int)(exp(-0.2 * iterations)) + 60;
+		spawnrate = 120 * (int)(exp(-0.1 * iterations)) + 60;
 		++iterations;
 	}
 	++spawntimer;
