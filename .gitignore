@@ -1,4 +1,4 @@
-/bin/
-/intermediates/
+Undergame/bin/
+Undergame/intermediates/
 *.exe
 *.obj
