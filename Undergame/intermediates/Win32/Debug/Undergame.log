@@ -1,0 +1,62 @@
+﻿  AiSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\repos\temp\Undergame\Undergame\AiSystem.cpp(293,21): warning C4018: '<': signed/unsigned mismatch
+C:\repos\temp\Undergame\Undergame\AiSystem.cpp(385,21): warning C4018: '<': signed/unsigned mismatch
+  CollisionSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  DiggerSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  HealthSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  ProjectileSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  ShooterSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  SpawnerSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  StaticCollisionSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  EntityCreator.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  InputSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  MovementSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  StaticRenderSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(57): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(63): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(69): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(75): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(81): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(87): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(93): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(99): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(104): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(110): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(116): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(122): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(128): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(134): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(140): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(146): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(152): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(158): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(164): error C2102: '&' requires l-value
+C:\repos\temp\Undergame\Undergame\StaticRenderSystem.cpp(170): error C2102: '&' requires l-value
+  TargetingSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  TileMapGenerator.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\repos\temp\Undergame\Undergame\TileMapGenerator.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+  PlayerSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  RenderSystem.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  Texture.cpp
+C:\repos\temp\Undergame\Undergame\ComponentManager.h(17,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
