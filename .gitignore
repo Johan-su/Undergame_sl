@@ -1,5 +1,7 @@
 Undergame/bin/
 Undergame/intermediates/
 .vs/
+/.vs/
+.vs
 *.exe
 *.obj
